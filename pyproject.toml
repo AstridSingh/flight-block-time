@@ -1,6 +1,6 @@
 [project]
 name = "flight-block-time"
-version = "0.1.0"
+version = "0.1.1"
 description = "Calculates elapsed flight durations and arrival times across time zone changes."
 requires-python = ">=3.10"
 dependencies = []
