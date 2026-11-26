@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented here.
 
+## [0.1.10] - 2026-11-26
+
+### Changed
+
+- Clean up build and packaging setup
+
 ## [0.1.8] - 2026-11-14
 
 ### Changed
